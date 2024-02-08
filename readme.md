@@ -44,17 +44,15 @@ You can view the full SQL code [here](https://github.com/CodyFHPearson/2019-2023
 
 After I exported the data in csv format I uploaded it into Tableau for further analysis and visualization.
 
-![gender_percent_overall_dashboard_2023](C:\Users\Cody\Pictures\Screenshots\2019-2023 PIT Gender Analysis\gender_percent_overall_dashboard_2023.png)
+![](https://github.com/CodyFHPearson/2019-2023-PIT-Gender-Analysis/blob/master/percent_shelt_overall_v_shelt_2023.png)
 
 In this first bar graph we see the percentage of each gender sheltered in 2023 in California with transgender and non-binary people being sheltered the least.  In the bottom two pie charts we can see that these two groups are sheltered at a lower proportion than their overall population would dictate. In a completely equitable world these two pie charts would be identical.
 
-![Percentage_Each_Gender_Sheltered_2019-2023](C:\Users\Cody\Pictures\Screenshots\2019-2023 PIT Gender Analysis\Percentage_Each_Gender_Sheltered_2019-2023.png)
+![](https://github.com/CodyFHPearson/2019-2023-PIT-Gender-Analysis/blob/master/Percentage_Each_Gender_Sheltered_2019-2023_V2.png)
 
-In this line chart we see the the shelter trends of each gender from 2019-2023 in California. Please note that 2021 is placeholder in this graph as the data from that year was unreliable as stated earlier. Each genders percent sheltered has increased during the given time period. However, transgender and non-binary homeless people percent sheltered has increased far more than that of  male and female homeless people. 
+In this line chart we see the the shelter trends of each gender from 2019-2023 in California. Please note that 2021 is placeholder in this graph as the data from that year was unreliable as stated earlier. Each genders percent sheltered has increased during the given time period. However, transgender and non-binary homeless people percent sheltered has increased far more than that of  male and female homeless people.
 
-![non_binary_transgender_growth](C:\Users\Cody\Pictures\Screenshots\2019-2023 PIT Gender Analysis\non_binary_transgender_growth.png)
-
-
+ ![](https://github.com/CodyFHPearson/2019-2023-PIT-Gender-Analysis/blob/master/non_binary_transgender_growth.png)
 
 In the above two bar charts we see the growth of non-binary and transgender homeless people compared to their population growths in California.  Although the data is limited for both graphs, we can see a large increase in growth of non-binary homeless people using shelters in comparison to the increase in population. For transgender homeless people the growth is more variable, yet we still see an increase in shelter usage greater than the population increase. 
 
@@ -69,7 +67,7 @@ Recommendations:
 1. Take survey data of transgender and non-binary people to find out why they might not be using the services available to them.
 2. Inform transgender and non-binary people of the services available to them and how to access them. 
 
-![](https://github.com/CodyFHPearson/2019-2023-PIT-Gender-Analysis/blob/master/Percentage_Each_Gender_Sheltered_2019-2023.png)
+
 
 
 
