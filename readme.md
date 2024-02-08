@@ -69,7 +69,7 @@ Recommendations:
 1. Take survey data of transgender and non-binary people to find out why they might not be using the services available to them.
 2. Inform transgender and non-binary people of the services available to them and how to access them. 
 
-![https://github.com/CodyFHPearson/2019-2023-PIT-Gender-Analysis/blob/master/Percentage_Each_Gender_Sheltered_2019-2023.png]()
+![](https://github.com/CodyFHPearson/2019-2023-PIT-Gender-Analysis/blob/master/Percentage_Each_Gender_Sheltered_2019-2023.png)
 
 
 
