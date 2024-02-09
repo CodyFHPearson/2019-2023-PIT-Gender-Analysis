@@ -4,7 +4,7 @@
 
 This data analysis was done was done as the capstone project for Google Data Analytics course on Coursera.  This project follows the 6 steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act. 
 
-During the process of selecting a topic for the project, I knew that I needed a subject matter that not only was unique to me but also possessed real-world implications. When I expressed this to a friend they gave me the idea for this project. Working with real world data has its own unique benefits one of them being as this data was already well maintained and put together there was  little to no cleaning necessary. However, as a person new to data analysis it also presented unique challenges that I had to find solutions for on my own. This lead to me learning a ton during this project, and I will continue to update it and improve on it as I gain experience and knowledge in the field of data analytics.
+During the process of selecting a topic for the project, I knew that I needed a subject matter that not only was unique to me but also possessed real-world implications. When I expressed this to a friend they gave me the idea to look into gender differences in regards to shelter. Working with real world data has its own unique benefits for instance, as this data was already well maintained and put together there was little to no cleaning necessary. However, as a person new to data analysis it also presented unique challenges that required me to find solutions that went beyond the Coursera course. This lead to me learning a ton during this project, and I will continue to update it and improve on it as I gain experience and knowledge in the field of data analytics.
 
 
 
@@ -54,7 +54,7 @@ In this line chart we see the the shelter trends of each gender from 2019-2023 i
 
  ![](https://github.com/CodyFHPearson/2019-2023-PIT-Gender-Analysis/blob/master/non_binary_transgender_growth.png)
 
-In the above two bar charts we see the growth of non-binary and transgender homeless people compared to their population growths in California.  Although the data is limited for both graphs, we can see a large increase in growth of non-binary homeless people using shelters in comparison to the increase in population. For transgender homeless people the growth is more variable, yet we still see an increase in shelter usage greater than the population increase. 
+In the above bar charts we see the growth of non-binary and transgender homeless people compared to their population growths. Although the data is limited for both graphs, we can see a large increase in growth of non-binary homeless people using shelters in comparison to the increase in population. For transgender homeless people the growth is more variable, yet we still see an increase in shelter usage greater than the population increase. 
 
 # Act/Conclusions
 
