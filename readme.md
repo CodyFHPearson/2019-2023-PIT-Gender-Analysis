@@ -50,7 +50,7 @@ In this first bar graph we see the percentage of each gender sheltered in 2023 i
 
 ![](https://github.com/CodyFHPearson/2019-2023-PIT-Gender-Analysis/blob/master/Percentage_of_Each_Shelter_Type.png)
 
-In the above pie charts we look at the percentage of each shelter type used by each gender in California during 2023. In this visualization we can see clear discrepancies and the way different genders use shelter services.  The most obvious difference is  how often Male and Female genders use Emergency Shelter services vs Transgender and Non binary homeless people. Non Binary and Transgender People also use Transitional Housing more than their male and female counterparts as a percentage of their overall sheltered population. 
+In the above pie charts we look at the percentage of each shelter type used by each gender in California during 2023. In this visualization we can see clear differences in the way different genders use shelter services.  The most obvious difference is how often male and female genders use Emergency Shelter services vs transgender and non binary homeless people. Non Binary and Transgender People also use Transitional Housing more than their male and female counterparts as a percentage of their overall sheltered population. 
 
 ![](https://github.com/CodyFHPearson/2019-2023-PIT-Gender-Analysis/blob/master/Percentage_Each_Gender_Sheltered_2019-2023_V2.png)
 
@@ -62,9 +62,9 @@ In the above bar charts we see the growth of non-binary and transgender homeless
 
 # Act/Conclusions
 
-Although transgender and non-binary individuals represent smaller segments of the population, they appear to be underserved by shelter services relative to their population size. Additionally, these groups utilize emergency shelters less frequently compared to male and female homeless individuals, suggesting a potential correlation between usage rates and service availability.
+Although transgender and non-binary individuals represent smaller segments of the population, they appear to be underserved by shelter services relative to their population size. Additionally, these groups utilize emergency shelters less frequently compared to male and female homeless people, suggesting a potential correlation between the emergency shelter usage and overall shelter utilization.
 
-According to a subject matter expert, a potential barrier to access for transgender and non-binary individuals may be the requirement to disclose their birth gender before gaining entry to gender-specific emergency shelter services. However, pinpointing the specific reason(s) behind this underservice necessitates more nuanced quantitative or qualitative data, such as comprehensive surveys. Without such data, it remains challenging to ascertain the precise factors contributing to this discrepancy in shelter service utilization.
+According to a subject matter expert, a potential barrier to access for transgender and non-binary individuals may be the requirement to disclose their birth gender before gaining entry to gender-specific emergency shelter services. However, identifying the specific reason(s) behind this underservice necessitates more nuanced quantitative or qualitative data, such as comprehensive surveys. Without such data, it is challenging to pinpoint the precise factors contributing to this discrepancy in shelter service utilization.
 
 On the bright side transgender and non-binary people are consistently using shelter services more often since 2019.  These two groups have by far had the most growth in this area over the past 5 years. 
 
