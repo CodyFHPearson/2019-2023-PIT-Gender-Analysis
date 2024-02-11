@@ -2,37 +2,37 @@
 
 # Introduction
 
-This data analysis was done was done as the capstone project for Google Data Analytics course on Coursera.  This project follows the 6 steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act. 
+This data analysis was conducted as the capstone project for the Google Data Analytics course on Coursera. The project follows the six steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
 
-During the process of selecting a topic for the project, I knew that I needed a subject matter that not only was unique to me but also possessed real-world implications. When I expressed this to a friend they gave me the idea to look into gender differences in regards to shelter. Working with real world data has its own unique benefits for instance, as this data was already well maintained and put together there was little to no cleaning necessary. However, as a person new to data analysis it also presented unique challenges that required me to find solutions that went beyond the Coursera course. This lead to me learning a ton during this project, and I will continue to update it and improve on it as I gain experience and knowledge in the field of data analytics.
-
-
+During the process of selecting a topic for the project, I knew that I needed a subject matter that was not only unique to me but also had real-world implications. When I expressed this to a friend, they suggested looking into gender differences regarding shelters. Working with real-world data has its own unique benefits. For instance, since this data was already well-maintained and organized, there was little to no cleaning necessary. However, as someone new to data analysis, it also presented unique challenges that required me to find solutions beyond the scope of the Coursera course. This led to me learning a great deal during this project, and I will continue to update and improve it as I gain experience and knowledge in the field of data analytics.
 
 # ASK
 
-In this data analysis we will explore the question of gender equality as it relates to sheltered and unsheltered homeless people. 
+In this data analysis we will explore the question of gender equality as it relates to sheltered homeless people. 
 
 Specifically we will be looking at:
 
-##### **Are Non-Binary and Transgender people underserved by shelters in 2023 in California?**
+##### **Are non-binary and transgender people underserved by shelters in 2023 in California?**
 
 ##### What are the trends in the last five years in regards to the sheltering of non-binary and transgender people in California?
 
 # Prepare/Process
 
-First i found and imported PIT(point-in-time) Data by state at https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/ where it is officially housed. 
+Here's the proofread version:
 
-I created a copy of each sheet I needed starting from 2023-2019 and added a year field in order to conduct historical trend analysis. 
+First, I found and imported PIT (point-in-time) Data by state from the official source at https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/.
 
-I noticed immediately that the column names were much longer than the 64 character limit of MySQL and confirmed this with the =len() function. After trying for some time to truncate the longer names using a combination of find and replace and the =left() function I ultimately decided it was best to create a pivot table for each sheet I needed and only include the columns that were appropriate for my analysis.
+I created a copy of each sheet I needed, starting from 2023 to 2019, and added a year field to conduct historical trend analysis.
 
-I first used find and replace to replace all instances of “Gender is not singularly male or female” with “Non_Binary.” I then used find and replace to replace all dashes and spaces with underscores and to remove any instance of multiple underscores and commas in order to make SQL queries easier.
+I immediately noticed that the column names exceeded the 64-character limit of MySQL. I confirmed this with the =len() function. After attempting to truncate the longer names using a combination of find and replace along with the =left() function, I ultimately decided it was best to create a pivot table for each sheet I needed, including only the columns appropriate for my analysis.
 
-I then familiarized myself with each column in order to choose what would be best to go into each pivot table. After creating each pivot table I saved them to a folder and imported them into MySQL, and combined the data for all 5 tables using the import wizard. 
+First, I used find and replace to replace all instances of “Gender is not singularly male or female” with “Non_Binary.” Then, I replaced all dashes and spaces with underscores and removed any instances of multiple underscores and commas to facilitate SQL queries.
 
-I then queried the data filtering for the state of California and conducted data integrity checks comparing the values in each field to the raw data. 
+Next, I familiarized myself with each column to determine the best content for each pivot table. After creating each pivot table, I saved them to a folder and imported them into MySQL. I combined the data from all five tables using the import wizard.
 
-While comparing the data I Immediately noticed a difference in the 2021 data compared to the data in the years before and after. After conducting some research I learned that according to the United States Interagency Council on Homelessness 2021 PIT counts were greatly affected by Covid-19 with many CoC’s unable to conduct unsheltered counts. In light of this I decided to remove 2021 data from my analysis by using the WHERE NOT statement.
+Then, I queried the data, filtering for the state of California, and conducted data integrity checks by comparing the values in each field to the raw data.
+
+While comparing the data, I immediately noticed a difference in the 2021 data compared to the data from the years before and after. After conducting some research, I learned that according to the United States Interagency Council on Homelessness, the 2021 PIT counts were greatly affected by Covid-19, with many CoCs unable to conduct unsheltered counts. In light of this, I decided to remove the 2021 data from my analysis using the WHERE NOT statement.
 
 
 
