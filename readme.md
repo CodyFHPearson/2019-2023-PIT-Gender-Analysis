@@ -18,8 +18,6 @@ Specifically we will be looking at:
 
 # Prepare/Process
 
-Here's the proofread version:
-
 First, I found and imported PIT (point-in-time) Data by state from the official source at https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/.
 
 I created a copy of each sheet I needed, starting from 2023 to 2019, and added a year field to conduct historical trend analysis.
