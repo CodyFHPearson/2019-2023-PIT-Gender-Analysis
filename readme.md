@@ -62,7 +62,7 @@ In the above bar charts we see the growth of non-binary and transgender homeless
 
 # Act/Conclusions
 
-Although transgender and non-binary individuals represent smaller segments of the population, they appear to be underserved by shelter services relative to their population size. Additionally, these groups utilize emergency shelters less frequently compared to male and female homeless people, suggesting a potential correlation between the emergency shelter usage and overall shelter utilization.
+Although transgender and non-binary individuals represent smaller segments of the population, they appear to be underserved by shelter services relative to their population size. Additionally, these groups utilize emergency shelters less frequently compared to male and female homeless people, These two observations may have a correlation. 
 
 According to a subject matter expert, a potential barrier to access for transgender and non-binary individuals may be the requirement to disclose their birth gender before gaining entry to gender-specific emergency shelter services. However, identifying the specific reason(s) behind this requires more nuanced quantitative or qualitative data, such as comprehensive surveys. Without such data, it is challenging to pinpoint the precise factors contributing to this discrepancy in shelter service utilization.
 
