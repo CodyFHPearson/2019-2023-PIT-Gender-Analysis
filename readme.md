@@ -4,7 +4,7 @@
 
 This data analysis was conducted as the capstone project for the Google Data Analytics course on Coursera. The project follows the six steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
 
-During the process of selecting a topic for the project, I knew that I needed a subject matter that was not only unique to me but also had real-world implications. When I expressed this to a friend, they suggested looking into gender differences regarding shelters. Working with real-world data has its own unique benefits. For instance, since this data was already well-maintained and organized, there was little to no cleaning necessary. However, as someone new to data analysis, it also presented unique challenges that required me to find solutions beyond the scope of the Coursera course. This led to me learning a great deal during this project, and I will continue to update and improve it as I gain experience and knowledge in the field of data analytics.
+During the process of selecting a topic for the project, I knew that I needed a subject matter that was not only unique to me but also  may have real-world implications. When I expressed this to a friend, they suggested looking into gender differences regarding shelters. Working with real-world data has its own unique benefits. For instance, since this data was already well-maintained and organized, there was little to no cleaning necessary. However, as someone new to data analysis, it also presented unique challenges that required me to find solutions beyond the scope of the Coursera course. This led to me learning a great deal during this project, and I will continue to update and improve it as I gain experience and knowledge in the field of data analytics.
 
 # ASK
 
@@ -64,7 +64,7 @@ In the above bar charts we see the growth of non-binary and transgender homeless
 
 Although transgender and non-binary individuals represent smaller segments of the population, they appear to be underserved by shelter services relative to their population size. Additionally, these groups utilize emergency shelters less frequently compared to male and female homeless people, suggesting a potential correlation between the emergency shelter usage and overall shelter utilization.
 
-According to a subject matter expert, a potential barrier to access for transgender and non-binary individuals may be the requirement to disclose their birth gender before gaining entry to gender-specific emergency shelter services. However, identifying the specific reason(s) behind this underservice necessitates more nuanced quantitative or qualitative data, such as comprehensive surveys. Without such data, it is challenging to pinpoint the precise factors contributing to this discrepancy in shelter service utilization.
+According to a subject matter expert, a potential barrier to access for transgender and non-binary individuals may be the requirement to disclose their birth gender before gaining entry to gender-specific emergency shelter services. However, identifying the specific reason(s) behind this requires more nuanced quantitative or qualitative data, such as comprehensive surveys. Without such data, it is challenging to pinpoint the precise factors contributing to this discrepancy in shelter service utilization.
 
 On the bright side transgender and non-binary people are consistently using shelter services more often since 2019.  These two groups have by far had the most growth in this area over the past 5 years. 
 
